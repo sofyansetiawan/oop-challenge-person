@@ -59,15 +59,15 @@ class Address {
  */
 
 class Car {
-		constructor(name, brand, type, color, price){}
+	constructor(name, brand, type, color, price){}
 }
 
 class House {
-		constructor(numberOfFloor, type, price, numberOfRooms){}
+	constructor(numberOfFloor, type, price, numberOfRooms){}
 }
 
 class Laptop {
-		constructor(name, brand, processor, memory, harddrive, price){}
+	constructor(name, brand, processor, memory, harddrive, price){}
 }
 
 const sofyan = new Person("Sofyan", "Setiawan", 1992, "male");

@@ -1,5 +1,5 @@
 # oop-challenge-person
-One of my challenges about OOP using Javascript
+One of my OOP challenges using Javascript
 
 Kita akan membuat simulasi mengenai `Person` . 
 
